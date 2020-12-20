@@ -25,6 +25,7 @@ Each sentence is picked randomly from one of three respective pools of sentences
 
 ## Technologies
 * JavaScript
+* Node.js
 
 ## Setup
 In order to run the program, you need to install Node.js on your computer:
